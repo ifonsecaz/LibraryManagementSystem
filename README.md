@@ -29,7 +29,7 @@ A Spring Boot RESTful API for managing books, authors, and their relationships i
 
 1. **Clone the repository**
     ```sh
-    git clone <your-repo-url>
+    git clone https://github.com/ifonsecaz/LibraryManagementSystem.git
     cd librarymanagement
     ```
 
